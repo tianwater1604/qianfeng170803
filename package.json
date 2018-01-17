@@ -1,0 +1,22 @@
+{
+  "name": "qianfeng170803",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianwater1604/qianfeng170803.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianwater1604/qianfeng170803/issues"
+  },
+  "homepage": "https://github.com/tianwater1604/qianfeng170803#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
